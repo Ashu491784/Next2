@@ -1,4 +1,6 @@
+sayHello("Hello");
+const sayHello2 = (x) =>{
 
-sayHello = (x) => {
-    console.log(x);
+
+    sayHello2("Hello");
 }
